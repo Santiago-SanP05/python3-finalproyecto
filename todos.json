@@ -1,0 +1,114 @@
+{
+    "U1": {
+        "1097782030": {
+            "nombres": [
+                "katy"
+            ],
+            "apellidos": "derline",
+            "dcc": "fr 105-2",
+            "acudiente": "madre",
+            "telefonos": 3182938495,
+            "fijo": 987653,
+            "estado": "cursando",
+            "riesgo": "bajo",
+            "notas 60": 0,
+            "notas 30": 0,
+            "notas 10": 0,
+            "nota final": 0,
+            "point": 250
+        }
+    },
+    "U2": {
+        "1093748594": {
+            "nombres": [
+                "sus"
+            ],
+            "apellidos": "biter",
+            "dcc": "34-cll2",
+            "acudiente": "no aplica",
+            "telefonos": 2349586758,
+            "fijo": 98765,
+            "estado": "cursando",
+            "riesgo": "bajo",
+            "notas 60": 0,
+            "notas 30": 0,
+            "notas 10": 0,
+            "nota final": 0,
+            "point": 0
+        }
+    },
+    "U3": {
+        "283940237": {
+            "nombres": [
+                "fafa"
+            ],
+            "apellidos": "frita",
+            "dcc": "dg201-54",
+            "acudiente": "freezer",
+            "telefonos": 3165869584,
+            "fijo": "",
+            "estado": "inscrito",
+            "riesgo": "bajo",
+            "notas 60": 0,
+            "notas 30": 0,
+            "notas 10": 0,
+            "nota final": 0,
+            "point": 0
+        }
+    },
+    "U4": {
+        "1057683482": {
+            "nombres": [
+                "lina"
+            ],
+            "apellidos": "garcia",
+            "dcc": "45-09",
+            "acudiente": "no aplica",
+            "telefonos": 3173940595,
+            "fijo": "",
+            "estado": "inscrito",
+            "riesgo": "bajo",
+            "notas 60": 0,
+            "notas 30": 0,
+            "notas 10": 0,
+            "nota final": 0,
+            "point": 0
+        }
+    },
+    "registrados": {
+        "22222222": {
+            "nombres": [
+                "fidel"
+            ],
+            "apellidos": "castro",
+            "dcc": "56-09",
+            "acudiente": "no aplica",
+            "telefonos": 3163940586,
+            "fijo": "",
+            "estado": "inscrito",
+            "riesgo": "bajo",
+            "notas 60": 0,
+            "notas 30": 0,
+            "notas 10": 0,
+            "nota final": 0,
+            "point": 0
+        },
+        "6584930293": {
+            "nombres": [
+                "daniel"
+            ],
+            "apellidos": "rojas",
+            "dcc": "12-90-3",
+            "acudiente": "no aplica",
+            "telefonos": 3176548596,
+            "fijo": "",
+            "estado": "inscrito",
+            "riesgo": "bajo",
+            "notas 60": 0,
+            "notas 30": 0,
+            "notas 10": 0,
+            "nota final": 0,
+            "point": 0
+        }
+    }
+}

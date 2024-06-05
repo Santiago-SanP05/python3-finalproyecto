@@ -1,0 +1,26 @@
+{
+    "U1": {
+        "trainer": "Jorge Melo",
+        "horario": "de 2 PM - 6 PM",
+        "ruta": "ruta NetCore",
+        "salon":"sputnit"
+    },
+    "U2": {
+        "trainer": "juan Marino",
+        "horario": "de 6 PM - 10 PM",
+        "ruta": "ruta NodeJS",
+        "salon":""
+    },
+    "U3": {
+        "trainer": "Jorge Melo",
+        "horario": "de 6 AM - 10 AM",
+        "ruta": "ruta Java",
+        "salon":""
+    },
+    "U4": {
+        "trainer": "Alma Marcela",
+        "horario": "de 10 AM - 2 PM",
+        "ruta": "ruta NodeJS",
+        "salon":""
+    }
+}
